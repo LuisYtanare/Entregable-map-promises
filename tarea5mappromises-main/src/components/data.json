@@ -1,0 +1,24 @@
+[
+    {
+"id":"1",
+        "title":"Zanahorias",
+        "description":"Zanahorias secadas naturalmente bajo el sol",
+        "price":5000,
+        "pictureurl":"https://www.harmonyhousefoods.com/assets/images/Carrots_Zip%204.jpg"
+    },
+    {
+"id":"2",
+        "title":"Berenjena seca",
+        "description":"Esta verdura seca es una bomba de vitaminas",
+        "price":5000,
+    "pictureurl":"https://thefreerangelife.com/wp-content/uploads/2013/09/IMG_0453.jpg"
+    },
+    {
+"id":"3",
+        "title":"Manzana Seca",
+        "description":"Manza seca es el snack ideal para deportista o simplemente para ir de paseo",
+        "price":5000,
+    "pictureurl":"https://thumbs.dreamstime.com/b/manzana-seca-23648003.jpg"
+    }
+
+]
