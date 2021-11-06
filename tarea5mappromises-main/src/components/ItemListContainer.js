@@ -11,10 +11,6 @@ import React, {useState,useEffect} from 'react';
         // <Item jsonpack={test2} />
 
 
-
-
-
-
 const ItemListContainer = ({name}) => {
     const[item,setItems]=useState([])
     const call = new Promise((resolve,reject)=>{

@@ -8,17 +8,15 @@ import ItemListContainer from './components/ItemListContainer';
 const mensaje = "Bienvenido al paraiso de las frutas secas, nosotros secamos con amor";
 function App() {
   return (
-<div name="background" class="p-3 mb-2 bg-dark text-white">
-    <div className="App">
- <NavBar/>
-
-
-     <ItemListContainer name={mensaje} />
-
-      <header className="App-header">
-      </header>
-          </div>
-      </div>
+         <div name="background" class="p-3 mb-2 bg-dark text-white">
+            <div className="App"> 
+              <NavBar/>
+              <ItemListContainer name={mensaje} />
+        
+              <header className="App-header">
+              </header>
+            </div>
+        </div>
   );
 }
 
